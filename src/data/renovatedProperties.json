@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Spacious Modular Kitchen",
+    "image": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Kitchen", "Large", "50000-100000"]
+  },
+  {
+    "id": 2,
+    "title": "Bright & Airy Living Room",
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Living Room", "Medium", "15000-50000"]
+  },
+  {
+    "id": 3,
+    "title": "Modern Bathroom with Walk-in Shower",
+    "image": "https://images.pexels.com/photos/6618123/pexels-photo-6618123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Bathroom", "Medium", "50000-100000"]
+  },
+  {
+    "id": 4,
+    "title": "Elegant Exterior Facelift",
+    "image": "https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Exterior", "Large", "100000"]
+  },
+  {
+    "id": 5,
+    "title": "Cozy Balcony Reading Nook",
+    "image": "https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Balcony", "Small", "0-15000"]
+  },
+  {
+    "id": 6,
+    "title": "Minimalist Bedroom with Smart Lighting",
+    "image": "https://images.pexels.com/photos/1648795/pexels-photo-1648795.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["General", "Medium", "15000-50000"]
+  },
+    {
+    "id": 7,
+    "title": "Open-Concept Kitchen & Dining",
+    "image": "https://images.pexels.com/photos/8089270/pexels-photo-8089270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Kitchen", "Large", "100000"]
+  },
+  {
+    "id": 8,
+    "title": "Chic Living Room with Accent Wall",
+    "image": "https://images.pexels.com/photos/6434623/pexels-photo-6434623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Living Room", "Small", "0-15000"]
+  }
+]

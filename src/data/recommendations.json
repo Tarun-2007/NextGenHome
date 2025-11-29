@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "Modern Kitchen Renovation",
+    "description": "Upgrade your kitchen with modular cabinets, a granite countertop, and energy-efficient appliances. This will significantly boost your home's appeal and functionality.",
+    "image": "https://images.pexels.com/photos/3926542/pexels-photo-3926542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹80,000 - ₹1,50,000",
+    "category": "Kitchen",
+    "size": "Large"
+  },
+  {
+    "id": 2,
+    "title": "Living Room Accent Wall",
+    "description": "Create a stunning focal point in your living room with a textured or boldly colored accent wall. It's a cost-effective way to add personality and style.",
+    "image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹10,000 - ₹20,000",
+    "category": "Living Room",
+    "size": "Small"
+  },
+  {
+    "id": 3,
+    "title": "Bathroom Vanity Upgrade",
+    "description": "Replace your old bathroom vanity with a modern one that offers better storage and a more contemporary look. This small change can make a big impact.",
+    "image": "https://images.pexels.com/photos/2088383/pexels-photo-2088383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹15,000 - ₹30,000",
+    "category": "Bathroom",
+    "size": "Medium"
+  },
+  {
+    "id": 4,
+    "title": "Install LED Lighting",
+    "description": "Switch to energy-efficient LED lighting throughout your home to save on electricity bills and create a brighter, more inviting atmosphere.",
+    "image": "https://images.pexels.com/photos/5824527/pexels-photo-5824527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹8,000 - ₹15,000",
+    "category": "General",
+    "size": "Small"
+  },
+  {
+    "id": 5,
+    "title": "Exterior Paint Refresh",
+    "description": "A fresh coat of paint on your home's exterior can dramatically improve its curb appeal and protect it from the elements.",
+    "image": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹40,000 - ₹70,000",
+    "category": "Exterior",
+    "size": "Large"
+  },
+  {
+    "id": 6,
+    "title": "Balcony Garden",
+    "description": "Create a small garden on your balcony with potted plants and creepers. It adds a touch of nature and provides a relaxing space.",
+    "image": "https://images.pexels.com/photos/4505963/pexels-photo-4505963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cost": "₹5,000 - ₹12,000",
+    "category": "Balcony",
+    "size": "Small"
+  }
+]
